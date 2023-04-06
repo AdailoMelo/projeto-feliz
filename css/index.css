@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&family=Press+Start+2P&display=swap');
 
+body {
+    background: url(../assets/img/bg02.png) no-repeat;
+}
+
 header {
     background-color: #7D5E98;
     border-bottom: 10px solid black;
@@ -39,7 +43,7 @@ nav > a::before {
     margin: 0px 10px 0px 0px;
 }
 
-header > nav > a.botao {
+a.botao {
     display: inline-block;
     background-color: #F25A6F;
     padding: 18px;
@@ -47,7 +51,47 @@ header > nav > a.botao {
     box-shadow: 5px 5px 0px black;
 }
 
-header > nav > a.botao:hover {
+a.botao:hover {
     background-color: #85FFC7;
     text-decoration: underline;
+}
+
+.apresentacao {
+    position: relative;
+    top: 116px;
+    left: 91px;
+
+    text-align: center;
+    background-color: #3A4042;
+    width: 627px;
+    height: 184px;
+    box-shadow: 10px 10px 0px black;
+}
+
+.apresentacao > h2 {
+    position: relative;
+    top: 25%;
+
+    color: #F25A6F;
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.apresentacao > h3 {
+    position: relative;
+    top: 25%;
+    color: #FFF;
+}
+
+main a.botao {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: 138px;
+    margin-right: 112px;
+    text-decoration: none;
+    color: white;
+    padding: 30px 85px;
 }
