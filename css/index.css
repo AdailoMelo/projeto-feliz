@@ -43,15 +43,3 @@ nav > a::before {
     margin: 0px 10px 0px 0px;
 }
 
-a.botao {
-    display: inline-block;
-    background-color: #F25A6F;
-    padding: 18px;
-    margin: 0px;
-    box-shadow: 5px 5px 0px black;
-}
-
-a.botao:hover {
-    background-color: #85FFC7;
-    text-decoration: underline;
-}

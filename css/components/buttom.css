@@ -1,0 +1,29 @@
+a.buttom {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    background-color: #F25A6F;
+    padding: 18px;
+    margin: 0px;
+    box-shadow: 5px 5px 0px black;
+}
+
+a.buttom:hover {
+    background-color: #85FFC7;
+    text-decoration: underline;
+}
+
+.btn > a{
+    text-align: center;
+    display: inline-block;
+    margin-right: 100px;
+    position: relative;
+    top: 30px;
+    left: 130px;
+    width: 200px;
+}
+
+.btn > a:hover{
+    background-color: #7D5E98;
+    text-decoration: underline;
+}
