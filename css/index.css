@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&family=Press+Start+2P&display=swap');
 
 body {
-    background-color: #85FFC7;
+    background-image: linear-gradient(to right, #62bb91, #85FFC7);
 }
 
 header {
@@ -54,14 +54,4 @@ a.botao {
 a.botao:hover {
     background-color: #85FFC7;
     text-decoration: underline;
-}
-
-.info {
-    background-color: rgb(36, 35, 35);
-    padding: 50px;
-    width: 650px;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.485);
-    position: relative;
-    top: 70px;
-    left: 70px;
 }

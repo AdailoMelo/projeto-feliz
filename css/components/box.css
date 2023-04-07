@@ -1,0 +1,13 @@
+.info {
+    text-align: center;
+    line-height: 1.5;
+    
+    background-color: #3A4042;
+    padding: 50px;
+    width: 680px;
+    box-shadow: 10px 10px 0px black;
+
+    position: relative;
+    top: 70px;
+    left: 70px;
+}
