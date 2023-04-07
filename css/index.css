@@ -59,9 +59,9 @@ a.botao:hover {
 .info {
     background-color: rgb(36, 35, 35);
     padding: 50px;
-    width: 600px;
+    width: 650px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.485);
     position: relative;
-    top: 100px;
-    left: 100px;
+    top: 70px;
+    left: 70px;
 }
