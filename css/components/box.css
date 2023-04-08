@@ -1,4 +1,4 @@
-.info {
+.box {
     text-align: center;
     line-height: 1.5;
     
@@ -7,5 +7,8 @@
     width: 680px;
     box-shadow: 10px 10px 0px black;
 
-    margin: 30px 0px 0px 30px;
+    margin: 0px;
+    position: relative;
+    top: 20vh;
+    left: 100px;
 }
