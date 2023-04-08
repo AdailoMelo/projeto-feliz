@@ -1,0 +1,11 @@
+.banner {
+    background-image: linear-gradient(to right, #62bb91, #85FFC7);
+    height: 700px;
+    border-bottom: 10px solid black;
+}
+
+.banner .logo {
+    position: absolute;
+    right: 50px;
+    top: 200px;
+}
