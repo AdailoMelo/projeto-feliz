@@ -16,11 +16,11 @@
 .btn > a{
     text-align: center;
     display: inline-block;
-    margin-right: 100px;
+    margin-right: 50px;
     position: relative;
-    top: 30px;
-    left: 130px;
-    width: 200px;
+    top: 25vh;
+    left: 135px;
+    width: 280px;
 }
 
 .btn > a:hover{
