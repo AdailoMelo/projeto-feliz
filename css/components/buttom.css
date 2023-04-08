@@ -1,4 +1,4 @@
-a.buttom {
+.buttom {
     text-decoration: none;
     color: white;
     display: inline-block;
@@ -8,7 +8,7 @@ a.buttom {
     box-shadow: 5px 5px 0px black;
 }
 
-a.buttom:hover {
+.buttom:hover {
     background-color: #85FFC7;
     text-decoration: underline;
 }
