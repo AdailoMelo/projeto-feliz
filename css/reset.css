@@ -1,1 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&family=Press+Start+2P&display=swap');
+
 * {margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;}
+
+body {
+    background-image: linear-gradient(to right, #62bb91, #85FFC7);
+}
+
