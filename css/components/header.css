@@ -1,0 +1,20 @@
+.header {
+    background-color: #7D5E98;
+    border-bottom: 10px solid black;
+    padding: 10px 20px;
+}
+
+.header > .logo {
+    margin: 20px;
+    display: inline-block;
+    font-family: 'Press Start 2P';
+    text-shadow: 5px 5px 0px black;
+    color: #F25A6F;
+}
+
+.header > .navigation {
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
