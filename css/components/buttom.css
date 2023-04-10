@@ -27,3 +27,19 @@
     background-color: #7D5E98;
     text-decoration: underline;
 }
+
+@media screen and (max-width: 550px) {
+    .buttom {
+        display: none;
+    }
+
+    .btn {
+        position: relative;
+        top: 60vh;
+        right: 20%;
+    }
+
+    .btn > a {
+        width: 150px;
+    }
+}

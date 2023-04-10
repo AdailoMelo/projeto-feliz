@@ -19,3 +19,9 @@
 .action:hover {
     color: #F25A6F;
 }
+
+@media screen and (max-width: 550px) {
+    .action {
+        display: none;
+    }
+};
