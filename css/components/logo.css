@@ -2,9 +2,3 @@
     width: 500px;
 }
 
-@media screen and (max-width: 550px) {
-    .logoimg {
-        width: 350px;
-        margin: auto;
-    }
-}

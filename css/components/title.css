@@ -5,8 +5,3 @@
     text-shadow: 4px 4px 0px black;
 }
 
-@media screen and (max-width: 550px) {
-    .title {
-        font-size: 25px;
-    }
-}

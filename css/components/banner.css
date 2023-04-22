@@ -10,13 +10,3 @@
     top: 200px;
 }
 
-@media screen and (max-width: 550px) {
-    .banner {
-        height: 100vh;
-    }
-
-    .banner .logoimg {
-        position: absolute;
-        top: 125px;
-    }
-}

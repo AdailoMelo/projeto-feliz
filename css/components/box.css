@@ -13,12 +13,3 @@
     left: 100px;
 }
 
-@media screen and (max-width: 480px) {
-    .box {
-        width: 420px;
-
-        position: absolute;
-        top: 70vh;
-        left: 2.5vw;
-    }
-}
