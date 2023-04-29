@@ -1,0 +1,16 @@
+.wrapper-skill {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0px auto 100px auto;
+}
+
+.wrapper-skill .progress-bar{
+    width: 320px;
+}
+
+.wrapper-skill .icon {
+    margin-left: 50px;
+    width: 90px;
+}
+
