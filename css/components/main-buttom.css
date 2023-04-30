@@ -1,4 +1,4 @@
-.buttom {
+.main-buttom {
     text-decoration: none;
     color: white;
     display: inline-block;
@@ -8,12 +8,11 @@
     box-shadow: 5px 5px 0px black;
 }
 
-.buttom:hover {
+.main-buttom:hover {
     background-color: #85FFC7;
-    text-decoration: underline;
 }
 
-.btn > a{
+.main-btn > a {
     text-align: center;
     display: inline-block;
     margin-right: 50px;
@@ -23,7 +22,7 @@
     width: 280px;
 }
 
-.btn > a:hover{
+.main-btn > a:hover{
     background-color: #7D5E98;
     text-decoration: underline;
 }
