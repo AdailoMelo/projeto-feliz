@@ -142,11 +142,11 @@
         <h1 class="main-title -second">Contatos</h1>
         <form action="" class="main-contacts">
             <label for="iname">Nome</label> <br>
-            <input type="text" name="name" id="iname"> <br>
+            <input type="text" name="name" id="iname" min="3" max="20" required> <br>
             <label for="iemail">Email</label> <br>
-            <input type="email" name="email" id="iemail"> <br>
+            <input type="email" name="email" id="iemail" required> <br>
             <label for="imsg">Mensagem</label> <br>
-            <input type="text" name="msg" id="imsg"> <br>
+            <textarea name="msg" id="imsg" cols="30" rows="10" class="textarea"></textarea>
             <input type="submit" value="Enviar" class="enviar" onclick="alert('Recebido')">
         </form>
     </section>
