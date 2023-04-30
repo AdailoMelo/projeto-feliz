@@ -1,0 +1,29 @@
+.main-contacts {
+    position: relative;
+    left: 10vw;
+}
+
+.main-contacts label {
+    color: white;
+    font-family: 'Fira Code';
+    font-size: 20px;
+}
+
+.main-contacts input {
+    width: 80%;
+    border-radius: 5px;
+    height: 30px;
+    margin: 10px 0px;
+}
+
+.main-contacts #imsg {
+    height: 200px;
+}
+
+.main-contacts .enviar {
+    background-color: #F25A6F;
+    font-family: 'Fira Code';
+    font-size: 16px;
+    color: white;
+    height: 50px;   
+}
