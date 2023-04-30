@@ -8,3 +8,8 @@
     background-color: black;
     border-bottom: 10px solid #F25A6F;
 }
+
+.main-section.-about {
+    background-color: #7C5E99;
+    border-bottom: solid black 10px;
+}
