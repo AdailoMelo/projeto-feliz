@@ -10,3 +10,10 @@
     color: white;
     padding: 50px 0px 100px 0px;
 }
+
+.main-title.-projects {
+    color: white;
+    text-align: center;
+    padding: 50px 0px;
+    font-weight: 400;
+}
