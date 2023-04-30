@@ -13,3 +13,8 @@
     background-color: #7C5E99;
     border-bottom: solid black 10px;
 }
+
+.main-section.-contacts {
+    background-color: #3A4042;
+    border: none;
+}
